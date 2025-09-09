@@ -1,0 +1,10 @@
+// Remove margin and padding from body
+body {
+  margin: 0px;
+  padding: 0px;
+
+  // Nested rule for <p> inside <body>
+  p {
+    margin: 10px;
+  }
+}

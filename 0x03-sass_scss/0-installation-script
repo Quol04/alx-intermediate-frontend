@@ -1,0 +1,13 @@
+
+Step-by-step instructions to install Sass globally:
+
+1. Open your terminal or command prompt.
+
+2. Navigate to your project folder:
+   cd "c:\Users\Lenovo\Desktop\Alx-Software-Eng\Prodev Frontend\Week2-two\semantic-html\alx-intermediate-frontend\0x03-sass_scss"
+
+3. Install Sass globally using npm:
+   npm install -g sass
+
+4. Verify the installation by checking the Sass version:
+   sass --version
